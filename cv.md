@@ -17,4 +17,27 @@ Junior Dev. I fond of completing tasks. But unfortunately I tire of long hard le
 - CSS
 - Sass (SCSS)
 
+## Code Example
+```javascript
+// Century From Year
+function century(year) {
+  return Math.ceil(year / 100);
+}
 
+console.log(century(1705)); // 18
+console.log(century(1900)); // 19
+console.log(century(1601)); // 17
+console.log(century(2000)); // 20
+```
+
+## Work Experience
+CV Project (https://github.com/cathulhu9327/rsschool-cv)
+
+
+## Education
+- Incomplete secondary vocational education (College of Information Technology Development - 1st semester)
+
+
+## Languages
+- English (A2)
+- Russian (native)
