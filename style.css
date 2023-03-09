@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: crimson;
+  text-decoration: none;
+  position: relative;
+  transition-duration: 0.5s;
+}
+
+a:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  transform: scaleX(0);
+  background: darkred;
+  transition-duration: 0.5s;
+}
+
+a:hover,
+a:active {
+  color: darkred;
+}
+
+a:hover:after {
+  transform: scaleX(1);
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+}
