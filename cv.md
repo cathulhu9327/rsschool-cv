@@ -2,7 +2,7 @@
 
 ---
 
-![PavelOrlov|100](avatar.jpg)
+![Pavel Orlov](avatar.jpg)
 
 ---
 
